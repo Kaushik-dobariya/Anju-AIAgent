@@ -149,8 +149,7 @@ Thanks to all the amazing contributors who have helped improve this project!
 
 | Avatar | Name | GitHub | Role | Contributions | PR(s) | Notes |
 |--------|------|--------|------|---------------|-------|-------|
-| <img src="https://github.com/Kaushik-dobariya.png" width="50px" height="50px" alt="Kaushik-dobariya avatar"/> | Harsh Gajjar | [Kaushik-dobariya](https://github.com/Kaushik-dobariya) | Project Creator & Maintainer | Core implementation, Documentation | N/A | Lead Developer |
-| <img src="https://github.com/gaurav98095.png" width="50px" height="50px" alt="gaurav98095 avatar"/> | Gaurav | [gaurav98095](https://github.com/gaurav98095) | Contributor | DB Schema, bugs | [#1](https://github.com/Kaushik-dobariya/Anju-AIAgent/pull/1), [#5](https://github.com/Kaushik-dobariya/Anju-AIAgent/pull/5), [#6](https://github.com/Kaushik-dobariya/Anju-AIAgent/pull/6), [#7](https://github.com/Kaushik-dobariya/Anju-AIAgent/pull/7) | Database Design, bugs |
+| <img src="https://github.com/Kaushik-dobariya.png" width="50px" height="50px" alt="Kaushik-dobariya avatar"/> | Kaushik Kumar | [Kaushik-dobariya](https://github.com/Kaushik-dobariya) | Project Creator & Maintainer | Core implementation, Documentation,DB Schema, bugs | N/A | Lead Developer, Database Design, bugs |
 
 <!-- To future contributors: Your profile will be added here when your PR is merged! -->
 
