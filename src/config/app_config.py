@@ -1,4 +1,4 @@
-APP_NAME = "HIA"
+APP_NAME = "ANJU-HIA"
 APP_DESCRIPTION = "Your Personal Health Insights Agent"
 APP_ICON = "🩺"
 APP_TAGLINE = "Discover a Healthier You with AI"
